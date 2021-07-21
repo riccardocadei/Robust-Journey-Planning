@@ -1,0 +1,30 @@
+'@id': https://localhost/projects/eric.bouillet/final-assignment
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.13.0
+http://schema.org/creator:
+  '@id': mailto:eric.bouillet@epfl.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: eric.bouillet@epfl.ch
+  http://schema.org/name: Eric Pierre Bouillet
+  http://www.w3.org/2000/01/rdf-schema#label: Eric Pierre Bouillet
+http://schema.org/dateCreated: '2021-05-04T07:51:18.703349+00:00'
+http://schema.org/name: final-assignment
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
+  "https://github.com/SwissDataScienceCenter/renku-project-template", "__template_ref__":
+  "0.1.16", "__template_id__": "python-minimal", "__namespace__": "com490-pub", "__automated_update__":
+  true, "__repository__": "https://dslab2021-renku.epfl.ch/gitlab", "__sanitized_project_name__":
+  "final-assignment", "__project_slug__": "com490-pub/final-assignment", "description":
+  "Final Assignment", "name": "final-assignment"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.1.16
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/renku-project-template
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: 11c74ad062891b24b5873d3036eff032eebc973a
