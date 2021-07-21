@@ -1,6 +1,6 @@
 # Robust Journey Planning
 
-In this project we propose a _robust_ public transport route planner based on the SBB datasets (See next section: [Dataset Description](#dataset-description)).
+In this project we propose a _robust_ public transport route planner based for Zurich Area in Switzerland.
 Given a desired arrival time, the route planner computes the fastest route between departure and arrival stops within a provided confidence tolerance expressed as interquartiles.
 
  ![query](figs/query.JPG)
