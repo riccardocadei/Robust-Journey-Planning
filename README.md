@@ -22,11 +22,10 @@ The project is accomplished by:
 * [Problem Description](#Problem-Description)
 * [Running Procedure](#Running-Procedure)
 * [Dataset Description](#Dataset-Description)
-* [References](#References)
-
     - [Actual data](#Actual-data)
     - [Timetable data](#Timetable-data)
     - [Stations data](#Stations-data)
+* [References](#References)
 
 ----
 
